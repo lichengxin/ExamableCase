@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExamableCase</string>
+    <string name="prompt_account">账号</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="error_invalid_account">无效手机号</string>
+    <string name="error_invalid_password">无效密码</string>
+</resources>
